@@ -1,0 +1,67 @@
+{    
+    "content": [
+		{
+			"caseId": "307946",
+			"caseNumber": "821",
+			"caseYear": "2023",
+			"courtId": "scbk",
+			"firstName": "Robert",
+			"lastName": "Cooper",
+			"middleName": "H.",
+			"partyRole": "aty",
+			"partyType": "aty",
+			"bankruptcyChapter": "11",
+			"caseNumberFull": "6:2023bk00821",
+			"caseOffice": "6",
+			"caseTitle": "Firstox Laboratories, LLC",
+			"caseType": "bk",
+			"dateFiled": "2023-03-21",
+			"jointBankruptcyFlag": "n",
+			"caseLink": "https://ecf.scb.uscourts.gov/cgi-bin/iqquerymenu.pl?307946"
+		},
+		{
+			"caseId": "315617",
+			"caseNumber": "10409",
+			"caseYear": "2023",
+			"courtId": "nysbk",
+			"lastName": "Cyrus Opportunities Master Fund II, Ltd.",
+			"partyRole": "ptcrd",
+			"partyType": "pty",
+			"bankruptcyChapter": "11",
+			"caseNumberFull": "1:2023bk10409",
+			"caseOffice": "1",
+			"caseTitle": "Servicios Foraneos de Administracion, S.A. de C.V.",
+			"caseType": "bk",
+			"dateFiled": "2023-03-21",
+			"jointBankruptcyFlag": "n",
+			"caseLink": "https://ecf.nysb.uscourts.gov//cgi-bin/iqquerymenu.pl?315617"
+		},
+		{
+			"caseId": "315606",
+			"caseNumber": "10398",
+			"caseYear": "2023",
+			"courtId": "nysbk",
+			"lastName": "United States Trustee",
+			"partyRole": "ust",
+			"partyType": "ust",
+			"bankruptcyChapter": "11",
+			"caseNumberFull": "1:2023bk10398",
+			"caseOffice": "1",
+			"caseTitle": "Multimedia, Espectaculos y Atracciones, S.A. de C.",
+			"caseType": "bk",
+			"dateFiled": "2023-03-21",
+			"jointBankruptcyFlag": "n",
+			"caseLink": "https://ecf.nysb.uscourts.gov//cgi-bin/iqquerymenu.pl?315606"
+		}
+    ],
+    "receipt": {
+        "billablePages": 17,
+        "fee": 1.7000000000000002,
+        "loginId": "Chrisb7712",
+        "clientCode": "",
+        "firmId": "",
+        "search": "All Courts; Date Filed 02/21/2023 to 02/22/2023; Chapter 7, 11; Batch",
+        "description": "All Court Types Case Search",
+        "csoId": 3495292
+    }
+}

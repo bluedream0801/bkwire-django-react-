@@ -1,0 +1,15 @@
+version: "3.7"
+services:
+    flaskapi:
+      image: registry.gitlab.com/1337its/projects/bkwire/dev-flask_api:latest
+      restart: unless-stopped
+      tty: true
+      container_name: flask-api
+      hostname: flask-api
+      command: uwsgi --ini /app/uwsgi.ini
+      volumes:
+        - ./docker/flask_api:/script/data
+
+    phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      restart: always
